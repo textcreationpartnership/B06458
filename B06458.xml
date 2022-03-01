@@ -1,0 +1,299 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The virgin's complaint against young mens unkindness. Of young mens falshood she doth much complain, resolving never to love man again: experience tells her men love but for fashion, that makes her rail against them in such passion. To the tune of, Cupid's courtesie, &amp;c.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1695</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 4 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B06458</idno>
+            <idno type="STC">Wing V639A</idno>
+            <idno type="STC">Interim Tract Supplement Guide EBB65H[62]</idno>
+            <idno type="EEBO-CITATION">99887087</idno>
+            <idno type="PROQUEST">ocm99887087</idno>
+            <idno type="VID">181812</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B06458)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 181812)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; A2:3[62])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The virgin's complaint against young mens unkindness. Of young mens falshood she doth much complain, resolving never to love man again: experience tells her men love but for fashion, that makes her rail against them in such passion. To the tune of, Cupid's courtesie, &amp;c.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill. (woodcuts).  </extent>
+               <publicationStmt>
+                  <publisher>Printed for A[lexander]. M[ilbourn]. W[illiam]. O[nley]. and T[homas]. Thackeray, at the Angel in Duck lane,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[1694?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Verse: "I am so deep in love ..."</note>
+                  <note>Place, date of publication, and publisher's names from Wing.</note>
+                  <note>Reproduction of original in the Harvard University, Houghton Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ballads, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2008-03</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2008-10</date>
+            <label>SPi Global</label>Rekeyed and resubmitted</change>
+         <change>
+            <date>2010-01</date>
+            <label>Susie Lorand</label>Sampled and proofread</change>
+         <change>
+            <date>2010-05</date>
+            <label>SPi Global</label>Rekeyed and resubmitted</change>
+         <change>
+            <date>2010-06</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2010-06</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="poem">
+            <pb facs="tcp:181812:1" rendition="simple:additions"/>
+            <head>The VIRGIN's COMPLAINT AGAINST Young MENS Unkindneſs.</head>
+            <argument>
+               <l>
+                  <hi>Of young Mens falſhood ſhe doth much complain,</hi>
+               </l>
+               <l>
+                  <hi>Reſolving never to love Man again:</hi>
+               </l>
+               <l>
+                  <hi>Experience tells her Men love but for faſhion,</hi>
+               </l>
+               <l>
+                  <hi>That makes her rail againſt them in ſuch paſſion.</hi>
+               </l>
+            </argument>
+            <opener>
+               <hi>To the Tune of, <hi>Cupid</hi>'s Courteſie, <hi>&amp;c.</hi>
+               </hi>
+            </opener>
+            <p>
+               <figure>
+                  <figDesc>depiction of woman</figDesc>
+               </figure>
+            </p>
+            <p>
+               <figure>
+                  <figDesc>depiction of Cupid</figDesc>
+               </figure>
+            </p>
+            <lg>
+               <l>
+                  <hi>I</hi> Am ſo deep in love,</l>
+               <l>I cannot hide it,</l>
+               <l>It breaks me of my reſt,</l>
+               <l>and of my quiet;</l>
+               <l>For when I ſee his face,</l>
+               <l>it ſo inflames me,</l>
+               <l>That I muſt love him ſtill,</l>
+               <l>though the world blame me.</l>
+            </lg>
+            <lg>
+               <l>O fye upon this love,</l>
+               <l>it will undo me,</l>
+               <l>I'll ne'er love man again,</l>
+               <l>ſhould the Gods wooe me;</l>
+               <l>For if once I can</l>
+               <l>ſhake off this paſſion,</l>
+               <l>I'll ne'er love man again,</l>
+               <l>but only for faſhion.</l>
+            </lg>
+            <lg>
+               <l>There's no believe in man,</l>
+               <l>though they ſeem civil,</l>
+               <l>For when they <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>it like ſaints,</l>
+               <l>they think moſt evil;</l>
+               <l>Therefore be rul'd by me,</l>
+               <l>never truſt no man,</l>
+               <l>But if you needs muſt love,</l>
+               <l>pray love a woman.</l>
+            </lg>
+            <lg>
+               <l>I wiſh blind <hi>Cupid</hi> had</l>
+               <l>been ſoundly ſleeping.</l>
+               <l>When like a crafty lad</l>
+               <l>he came ſo creeping,</l>
+               <l>To wound my tender heart,</l>
+               <l>and pierce my marrow,</l>
+               <l>I felt his fatal dart,</l>
+               <l>to my great ſorrow.</l>
+            </lg>
+            <lg>
+               <l>Never poor virgin was</l>
+               <l>in ſuch a taking,</l>
+               <l>I oft lookt in my glaſs,</l>
+               <l>pleaſure forſaking;</l>
+               <l>My cheeks were pale and wan,</l>
+               <l>my lips did trimble,</l>
+               <l>Becauſe I lov'd a man</l>
+               <l>that did diſſemble.</l>
+            </lg>
+            <p>
+               <figure>
+                  <figDesc>depiction of man</figDesc>
+               </figure>
+            </p>
+            <p>
+               <figure>
+                  <figDesc>depiction of man</figDesc>
+               </figure>
+            </p>
+            <lg>
+               <l>O what a ſimple girle</l>
+               <l>I was for certain,</l>
+               <l>For to love Lord or Earl,</l>
+               <l>I will not hearken;</l>
+               <l>Not one in twenty ſcore</l>
+               <l>but is deceitful,</l>
+               <l>Therefore I'll love no more,</l>
+               <l>men are deceitful.</l>
+            </lg>
+            <lg>
+               <l>It is their conſtant trade</l>
+               <l>to cog and flatter,</l>
+               <l>Or to delude a maid,</l>
+               <l>her fort to batter;</l>
+               <l>But if they prate and lye,</l>
+               <l>I'll not believe them,</l>
+               <l>Such love I'll never try,</l>
+               <l>altho' it grieve them.</l>
+            </lg>
+            <lg>
+               <l>They'll profeſs and pretend</l>
+               <l>much of aff<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ction,</l>
+               <l>Vntil they make you bend</l>
+               <l>to love's ſubj<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ction:</l>
+               <l>Of your hearts craftily</l>
+               <l>they will bereave you,</l>
+               <l>Till a new face they ſpy,</l>
+               <l>then they will leave you.</l>
+            </lg>
+            <lg>
+               <l>Their words are all but wind,</l>
+               <l>like winter weather,</l>
+               <l>Vnconſtant and unkind,</l>
+               <l>light as a feather:</l>
+               <l>I tell you flat and plain</l>
+               <l>I'll not abide it,</l>
+               <l>To love a man again,</l>
+               <l>once having try'd it.</l>
+            </lg>
+            <lg>
+               <l>Blame me not though I be</l>
+               <l>ſomething in paſſion,</l>
+               <l>For now I plainly ſee</l>
+               <l>it is the faſhion;</l>
+               <l>For ſuch falſe-hearted men</l>
+               <l>are grown ſo common,</l>
+               <l>That when I love again,</l>
+               <l>I'll love a woman.</l>
+            </lg>
+            <lg>
+               <l>Why ſhould a woman dote</l>
+               <l>on ſuch a bubble,</l>
+               <l>That's good for nothing but</l>
+               <l>to procure trouble?</l>
+               <l>Every day I will pray</l>
+               <l>for to live ſingle,</l>
+               <l>That my affection may</l>
+               <l>with no man's mingle.</l>
+            </lg>
+            <lg>
+               <l>Ladies take my advice,</l>
+               <l>you have rare features,</l>
+               <l>Always be coy and nice</l>
+               <l>to ſuch falſe creatures;</l>
+               <l>No man will conſtant prove,</l>
+               <l>no not my brother;</l>
+               <l>Then if you needs muſt love,</l>
+               <l>love one another.</l>
+            </lg>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed for <hi>A.M.W.O.</hi> and <hi>T. Thackeray,</hi> at the <hi>Angel</hi> in <hi>Duck-lane.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
